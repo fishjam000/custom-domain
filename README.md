@@ -1,2 +1,2 @@
-# custom-doman
-My Custom Domain
+# j1phan.com
+Future home of my awesome website.
